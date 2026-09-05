@@ -1,2 +1,2 @@
 ![OpenForge Logo](logo.png)
-An open-source agent for making anything.
+<p style="text-align: center;">An open-source agent for making anything.</p>
